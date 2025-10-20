@@ -181,12 +181,12 @@ button:hover {
 @media (max-width: 767px) {
     .main-container {
         width: 85%;
-        height: 50%;
+        height: 70%;
         padding: 1.5rem;
     }
 
     .main-heading h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
         text-align: center;
     }
 
