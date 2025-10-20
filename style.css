@@ -122,6 +122,7 @@ select {
 }
 
 .msg {
+
     text-align: center;
     height: 2.5%;
     font-size: xx-large;
@@ -202,6 +203,7 @@ button:hover {
     }
 
     .msg {
+        margin-top: 0.5rem;
         font-size: x-large;
     }
 
