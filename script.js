@@ -23,7 +23,7 @@ but.addEventListener("click", async (evt) => {
     let data = await response.json();
     console.log(data);
     let rate = data[from.value.toLowerCase()][to.value.toLowerCase()];
-    let totalAmount = (amount * rate).toFixed(3);
+    let totalAmount = (amount * rate).toFixed(2);
     msg.style.visibility = "visible";
     msg.innerText = `${amount} ${from.value} = ${totalAmount} ${to.value}`;
   } catch (error) {
