@@ -9,7 +9,7 @@ It uses the free [Currency API](https://github.com/fawazahmed0/currency-api) to 
 
 | Category | Technology |
 |-----------|-------------|
-| Frontend  | HTML5, CSS3, JavaScript (ES6) |
+| Frontend  | HTML5, CSS3, JavaScript |
 | API       | [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) |
 | Icons     | [Font Awesome](https://fontawesome.com/) |
 
